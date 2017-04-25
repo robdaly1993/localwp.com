@@ -1,0 +1,24 @@
+.chiro-pro-option h1{
+	line-height:1em;
+}
+
+.chiro-pro-option{
+	max-width:960px;
+}
+
+.chiro-pro-option{
+	margin-bottom:75px;
+}
+
+.chiro-pro-option img{
+	max-width:75%;
+}
+
+.chiro-pro-option p{
+	font-size:16px;
+	margin:16px 10px;
+}
+
+#premium-link{
+	color:#ffff00;
+}

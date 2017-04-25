@@ -1,0 +1,88 @@
+Chiro Pro Theme by Derek Gibbons, from WP Clinic Themes
+
+INSTALL: 
+==========================================================================================================
+
+1. 	Upload the chiro-pro.zip file from within the Themes area of your WordPress dashboard.
+
+2. 	Select Chiro Pro and click activate.
+
+3.	Go to http://chirothemes.com/videos/ and watch the first video.
+
+4. Also, check the recommeded plugins below.
+
+
+SUPPORT & DOCUMENTATION:
+===========================================================================================================
+
+To get your theme running properly, you should visit http://chirothemes.com/videos
+
+Our website has video tutorials showing how to intall the theme on your site, how to use the customizer, and how to use the templates and side-bars.
+
+
+RECOMMENDED PLUGINS:
+===========================================================================================================
+
+If you take a look at the demo: http://demo1.chirothemes.com/ you'll see a map and a social sharing section in the footer.
+The map was done with a plugin called "Google Maps Widget" which can be found here: https://wordpress.org/plugins/google-maps-widget/
+The social media icons were placed with a plugin called "Social Media Widget" which can be found here: https://wordpress.org/plugins/social-media-widget/
+The social media plugin has not been updated in two years, so you may want to look around for another if you have issues with it.
+
+I also recommend another plugin that will allow you to add java script or CSS to your headers and footer. This is necessary to
+allow for google analytics tracking codes, stylesheets for opt-in forms, facebook ad pixels, etc. I like that it doesn't try to do too much,
+like add Facebook or Twitter data, so it doesn't conflict with the WordPress SEO by Yoast plugin.
+The plugin is called OH Header Footer and can be downloaded here: https://wordpress.org/plugins/oh-add-script-header-footer/
+
+Fast Secure Contact Form is recommeded for you appointment form. You can watch a video on how to use it at http://chirothemes.com
+You can also download and import file from chirothemes.com that will setup the form for you. (Instructions are in the video)
+You can get the plugin here: https://wordpress.org/plugins/si-contact-form/
+
+
+LICENSE:
+============================================================================================================
+
+Chiro Pro WordPress Theme, Copyright 2015 Derek Gibbons
+Chiro Pro is distributed under the terms of the GNU GPLv3
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+View the  GNU General Public License here: http://www.gnu.org/licenses/gpl.html
+
+The Chiro Pro theme bundles the following third-party resources:
+
+Open Sans font by Steve Matteson
+Open Sans font is licensed under the Apache 2.0 license, and allows for perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. 
+Source: http://www.fontsquirrel.com/fonts/open-sans
+The full license is inclued with this theme in the fonts folder.
+
+PT San font, Copyright © 2009 ParaType Ltd.
+The PT Sans is licensed under a custom license, and permission is granted, free of charge, to any person obtaining a copy of the font software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the font software, subject to some conditions.
+Source: http://www.paratype.ru
+The full license can be viewed in the fonts folder of this theme.
+
+Oswald font, Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk)
+The Oswald font is licensed under the SIL Open Font License, Version 1.1., and allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves.
+Source: http://www.fontsquirrel.com/fonts/oswald
+The full license can be viewed at http://scripts.sil.org/OFL, and is also included in the fonts folder of this theme.
+
+TGM-Plugin-Activation:
+Copyright 2014 Thomas Griffin (thomasgriffinmedia.com)
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License, version 2, as
+published by the Free Software Foundation.
+Source: http://tgmpluginactivation.com/
+You can view the full license at http://opensource.org/licenses/gpl-2.0.php GPL v2 or later
+
+Images:
+All of the images bundled with this theme are licensed as CC0 1.0. This means the images are dedicated to the public domain, and all rights are waived worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify and distribute the images, even for commercial purposes, all without asking permission. You can see the license here http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Links to the downloaded images for license verification:
+	http://pixabay.com/en/medical-appointment-doctor-563427/
+	http://pixabay.com/en/clock-time-watch-fashion-hours-407101/
+	http://pixabay.com/en/architecture-town-hall-new-building-738484/

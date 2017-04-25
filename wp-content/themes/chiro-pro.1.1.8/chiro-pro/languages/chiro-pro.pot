@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: chiro-pro\n"
+"POT-Creation-Date: 2017-03-15 11:30-0800\n"
+"PO-Revision-Date: 2017-03-15 11:31-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: chiro-pro\n"
+
+#: chiro-pro/404.php:10
+msgid "The page you are looking for is not available."
+msgstr ""
+
+#: chiro-pro/404.php:11
+msgid "Please visit our "
+msgstr ""
+
+#: chiro-pro/404.php:11
+msgid "home page"
+msgstr ""
+
+#: chiro-pro/comments.php:22 chiro-pro/comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: chiro-pro/comments.php:24 chiro-pro/comments.php:43
+msgid "Older Comments"
+msgstr ""
+
+#: chiro-pro/comments.php:25 chiro-pro/comments.php:44
+msgid "Newer Comments"
+msgstr ""
+
+#: chiro-pro/comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: chiro-pro/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: chiro-pro/content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: chiro-pro/content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: chiro-pro/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: chiro-pro/content-page.php:6 chiro-pro/content-single.php:6
+#: chiro-pro/content.php:14
+msgid "Pages:"
+msgstr ""
+
+#: chiro-pro/footer.php:7
+msgid "This is Footer 1"
+msgstr ""
+
+#: chiro-pro/footer.php:12
+msgid "This is Footer 2"
+msgstr ""
+
+#: chiro-pro/footer.php:17
+msgid "This is Footer 3"
+msgstr ""
+
+#: chiro-pro/footer.php:22
+msgid "This is Footer 4"
+msgstr ""
+
+#: chiro-pro/front-page.php:13
+msgid "Set an Appointment"
+msgstr ""
+
+#: chiro-pro/front-page.php:13 chiro-pro/lib/customizer.php:278
+msgid "Request your appointment online"
+msgstr ""
+
+#: chiro-pro/front-page.php:15 chiro-pro/lib/customizer.php:305
+msgid "New Patient Forms"
+msgstr ""
+
+#: chiro-pro/front-page.php:15 chiro-pro/lib/customizer.php:317
+msgid "Print them ahead of time"
+msgstr ""
+
+#: chiro-pro/front-page.php:16 chiro-pro/lib/customizer.php:344
+msgid "Latest News"
+msgstr ""
+
+#: chiro-pro/front-page.php:16 chiro-pro/lib/customizer.php:356
+msgid "Promotions, Coupons, News"
+msgstr ""
+
+#: chiro-pro/front-page.php:17 chiro-pro/lib/customizer.php:383
+msgid "Location and Hours"
+msgstr ""
+
+#: chiro-pro/front-page.php:17 chiro-pro/lib/customizer.php:395
+msgid "Maps and driving directions"
+msgstr ""
+
+#: chiro-pro/front-page.php:26 chiro-pro/lib/customizer.php:430
+msgid "Location / Directions"
+msgstr ""
+
+#: chiro-pro/front-page.php:27
+msgid ""
+"Here you can use Google maps to get detailed directions from your home or "
+"office."
+msgstr ""
+
+#: chiro-pro/front-page.php:34 chiro-pro/lib/customizer.php:469
+msgid "About Us"
+msgstr ""
+
+#: chiro-pro/front-page.php:35 chiro-pro/lib/customizer.php:481
+msgid "Learn about the doctor and clinic here"
+msgstr ""
+
+#: chiro-pro/front-page.php:42 chiro-pro/lib/customizer.php:509
+msgid "Office Hours"
+msgstr ""
+
+#: chiro-pro/front-page.php:43
+msgid "Learn about our office hours here"
+msgstr ""
+
+#: chiro-pro/functions.php:17
+msgid "Main Navigation"
+msgstr ""
+
+#: chiro-pro/header-frontpage.php:31 chiro-pro/header.php:30
+msgid "ADDRESS"
+msgstr ""
+
+#: chiro-pro/header-frontpage.php:35 chiro-pro/header.php:34
+msgid "EMAIL"
+msgstr ""
+
+#: chiro-pro/header-frontpage.php:39 chiro-pro/header.php:38
+msgid "PHONE"
+msgstr ""
+
+#: chiro-pro/sidebar-aboutbar.php:2
+msgid ""
+"You need to add a custom menu widget in the About Sidebar widget area. "
+"(Dashboard --> Appearance --> Widgets)"
+msgstr ""
+
+#: chiro-pro/sidebar-aboutbar.php:5 chiro-pro/sidebar-newpatientbar.php:5
+msgid "Request an Appointment"
+msgstr ""
+
+#: chiro-pro/sidebar-appointmentbar.php:2
+msgid ""
+"You need to add a text widget in the Appointment Sidebar widget area, then "
+"copy and paste your shortode from the FS Contact Form plugin."
+msgstr ""
+
+#: chiro-pro/sidebar-custom1.php:2 chiro-pro/sidebar.php:3
+msgid "There is nothing in your sidebar."
+msgstr ""
+
+#: chiro-pro/sidebar-newpatientbar.php:2
+msgid ""
+"You need to add a custom menu widget in the New Patient Sidebar widget area. "
+"(Dashboard --> Appearance --> Widgets)"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:387
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: chiro-pro/lib/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:8
+msgid "Background Colors"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:18 chiro-pro/lib/customizer.php:633
+msgid "Background Color"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:33
+msgid "Container Background Color"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:49
+msgid "Stripe color (single pages)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:64
+msgid "Stripe border color"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:79
+msgid "Stripe text color"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:94
+msgid "Footer background color"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:107
+msgid "Theme Variables"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:117
+msgid "Phone for display"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:129
+msgid "Phone link (NO dashes or parentheses)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:141
+msgid "Email address"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:153
+msgid "Street"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:165
+msgid "City, State, Zip"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:178
+msgid "Images"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:188
+msgid "Your Logo"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:200
+msgid "Main front page image (580x280)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:212
+msgid "Left column image (312x71)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:224
+msgid "Middle column image (312x71)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:236
+msgid "Right column image (312x71)"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:248
+msgid "404 page image"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:261
+msgid "Front Page Boxes on Right"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:266
+msgid "Set An Appointment"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:271
+msgid "Top Box Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:283
+msgid "Top Box Sub-Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:295
+msgid "Top Box Link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:310
+msgid "2nd Box Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:322
+msgid "2nd Box Sub-Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:334
+msgid "2nd Box Link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:349
+msgid "3rd Box Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:361
+msgid "3rd Box Sub-Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:373
+msgid "3rd Box Link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:388
+msgid "4th Box Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:400
+msgid "4th Box Sub-Header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:412
+msgid "4th Box Link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:425
+msgid "Front Page Columns Text"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:435
+msgid "Left column header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:442
+msgid ""
+"Here you can use Google maps to get detailed directions from your home or "
+"office"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:447
+msgid "Left column sub-header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:459
+msgid "Left column link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:474
+msgid "Middle column header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:486
+msgid "Middle column sub-header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:499
+msgid "Middle column link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:514
+msgid "Right column header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:521
+msgid "Lear about our office hours here"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:526
+msgid "Right column sub-header"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:538
+msgid "Right column link"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:551
+msgid "Site Colors"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:561
+msgid "Phone, Email, Address text"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:573
+msgid "Front page top right box"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:585
+msgid "Front page bottom boxes"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:597
+msgid "Front page columns text"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:609
+msgid "Borders around images"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:623
+msgid "Navigation Menu Colors"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:648
+msgid "Text Color"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:663
+msgid "Color on Mouse Hover"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:677
+msgid "Side-bar button on templates"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:685
+msgid "Request Appointment"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:690
+msgid "Button Text"
+msgstr ""
+
+#: chiro-pro/lib/customizer.php:705
+msgid "Appointment button link"
+msgstr ""
+
+#: chiro-pro/lib/custom_title.php:23
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: chiro-pro/lib/default_menu.php:5
+msgid "Assign a"
+msgstr ""
+
+#: chiro-pro/lib/default_menu.php:5
+msgid "menu"
+msgstr ""
+
+#: chiro-pro/lib/default_menu.php:5
+msgid "to your Main Navigation. -- Need"
+msgstr ""
+
+#: chiro-pro/lib/default_menu.php:5
+msgid "Help"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:4
+msgid "Main Sidebar"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:6
+msgid "This is the main sidebar"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:14
+msgid "Footer 1"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:16
+msgid "This is the left footer widget"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:24
+msgid "Footer 2"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:26
+msgid "This is the left middle footer widget"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:34
+msgid "Footer 3"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:36
+msgid "This is the right middle footer widget"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:44
+msgid "Footer 4"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:46
+msgid "This is the right footer widget"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:54
+msgid "About Sidebar"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:56
+msgid ""
+"This is the About sidebar. You need to first create a custom menu in the "
+"Menu area (Appearance --> Menus). After that, come back here and add a "
+"custom menu widget here, then assign the menu you just creaeted to that "
+"widget. Whatever pages you add to that custom menu will then show in your "
+"About side-bar."
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:64
+msgid "Appointment Sidebar"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:66
+msgid ""
+"This is the Appointment sidebar. You need to use a plugin such as FS Contact "
+"Form (Fast Secure Contact Form). Add a text widget here, and then put the "
+"contact form shortcode in the text widget."
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:74
+msgid "New Patient Sidebar"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:76
+msgid ""
+"This is the New Patient sidebar. You need to first create a custom menu in "
+"the Menu area (Appearance --> Menus). After that, come back here and add a "
+"custom menu widget here, then assign the menu you just creaeted to that "
+"widget. Whatever pages you add to that custom menu will then show in your "
+"New Patient side-bar."
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:84
+msgid "Custom Sidebar 1"
+msgstr ""
+
+#: chiro-pro/lib/regwidgets.php:86
+msgid ""
+"Some people like to have more than one sidebar, so they can have different "
+"widgets on different pages of their sites. Whatever you place in this "
+"sidebar will show on pages assigned to the Custom Sidebar Template"
+msgstr ""
+
+#: chiro-pro/lib/styles_and_scripts.php:45 chiro-pro/upgrade/upgrade.php:4
+msgid "Premium Options"
+msgstr ""
+
+#: chiro-pro/lib/suggested_plugins.php:63
+msgid "Fast Secure Contact Form"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:4
+msgid "Upgrade to ChiroPro Premium"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:12
+msgid "Easily Add Video to your Home Page Without Knowing Any Code"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:18
+msgid "Want a dynamic, animated slider?"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:19
+msgid ""
+"Integrates with the Slider Revolution plugin, the #1 selling slider plugin "
+"(sold separately by Code Canyon for $19)"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:23
+msgid ""
+"The Slider Revolution is an AMAZING plugin available from Code Canyon for "
+"$19.00"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:26
+msgid "Extra Sidebars"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:28
+msgid ""
+"This extra flexibility allows you to have different sidebars on different "
+"pages. It's great if you're using email list opt-ins"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:31
+msgid "Retina Ready!"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:35
+msgid ""
+"Don't want to look outdated on iPads, iMacs and MacBooks? The premium "
+"version is Retina Ready so you can look like a pro."
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:38
+msgid "Office Hours Shortcode"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:40
+msgid ""
+"This allows you to put \"[hours]\" in the content, and then control your "
+"office hours using the customizer. If you display your office hours on "
+"multiple posts, pages or widgets, changes in the customizer will be "
+"displayed all over your site."
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:43
+msgid "Optional Footer Text"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:44
+msgid ""
+"Adds a Footer Text section to the customizer so you can add an address, "
+"copyright, or even drop in your Schema Markup (for search engines) without "
+"having to edit the templates."
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:47
+msgid "White Label"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:51
+msgid ""
+"Do you want to make the credit link in the footer go away? Are you a "
+"developer who makes sites for clients? The premium version has a simple "
+"check box to hide the credit link."
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:54
+msgid "Smoothe Updates"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:55
+msgid ""
+"Updates from the premium version are one-click updates from inside your "
+"WordPress dashboard just like it was hosted on WordPress.org. You will NOT "
+"need to download updates or FTP files. Just click the button and you're done"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:59
+msgid "Go Here for Special Pricing"
+msgstr ""
+
+#: chiro-pro/upgrade/upgrade.php:60
+msgid ""
+"We have special pricing for upgraders from the free version. Just <a href="
+"\"http://wpclinicthemes.com/special-offer-clinic-pro-premium-slkjds5fjh/"
+"\">click here</a> to find out how much."
+msgstr ""
